@@ -19,9 +19,7 @@
     "workbench.editor.editorActionsLocation": "titleBar",
     "workbench.editor.empty.hint": "hidden",
     "editor.fontLigatures": true,
-    "editor.rulers": [
-        100
-    ],
+    "editor.rulers": [100],
     "workbench.iconTheme": "vscode-icons-mac",
     "workbench.activityBar.location": "bottom",
     "symbols.hidesExplorerArrows": false,
