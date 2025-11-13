@@ -1,4 +1,5 @@
-``` {
+```
+{
     "workbench.colorTheme": "Min Dark", // Min Dark or Dracula Theme 
     "vsicons.dontShowNewVersionMessage": true,
     "liveServer.settings.donotShowInfoMsg": true,
