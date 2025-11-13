@@ -1,4 +1,4 @@
-{
+``` {
     "workbench.colorTheme": "Min Dark", // Min Dark or Dracula Theme 
     "vsicons.dontShowNewVersionMessage": true,
     "liveServer.settings.donotShowInfoMsg": true,
@@ -32,3 +32,4 @@
     "terminal.integrated.defaultLocation": "view",
     "workbench.panel.defaultLocation": "right"
 }
+```
