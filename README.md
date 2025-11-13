@@ -1,9 +1,5 @@
-## Configuração do VSCODE
-Minhas configurações do arquivo settings.json do vscode
-
-````
 {
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "Min Dark", // Min Dark or Dracula Theme 
     "vsicons.dontShowNewVersionMessage": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "security.workspace.trust.untrustedFiles": "open",
@@ -26,13 +22,15 @@ Minhas configurações do arquivo settings.json do vscode
     "editor.rulers": [
         100
     ],
-    "workbench.iconTheme": "symbols",
+    "workbench.iconTheme": "vscode-icons-mac",
     "workbench.activityBar.location": "bottom",
     "symbols.hidesExplorerArrows": false,
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled":false, 
     "breadcrumbs.enabled": false,
     "editor.scrollbar.vertical": "hidden",
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "terminal.integrated.defaultLocation": "view",
+    "workbench.panel.defaultLocation": "right"
 }
-`````
